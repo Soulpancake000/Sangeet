@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sangeet</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="artist">Artist</string>
+    <string name="songs">Songs</string>
+    <string name="song_one">Aa Jao Na</string>
+    <string name="artist_one">Arjit Singh</string>
+    <string name="song_two">Naked</string>
+    <string name="artist_two">James Arthur</string>
+    <string name="song_three">Unforgettable</string>
+    <string name="artist_three">French Montana</string>
+    <string name="song_four">A Different Way</string>
+    <string name="artist_four">Dj Snake</string>
+    <string name="song_five">Feel It Still</string>
+    <string name="artist_five">Portugal.The Man</string>
+    <string name="song_six">Havana</string>
+    <string name="artist_six">Camila</string>
+    <string name="part_songs">Songs</string>
+    <string name="part_nowplaying">NowPlaying</string>
+    <string name="part_artist">Artist</string>
+</resources>
